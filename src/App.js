@@ -10,7 +10,7 @@ import  DigitButton  from "./DigitButton"
     EVALUATE: 'evaluate'
 }
 
-  function reducer(state, {type, payload}) {
+  function reducer(state, { type, payload }) {
     switch(type) {
       case ACTIONS.ADD_DIGIT:
         return {
