@@ -2,7 +2,7 @@ Hi 👋, I'm Fu11Stack A passionate Web developer. Love to build beautiful websi
 
 🔭 I’m currently working on React Projects.
 
-📫 How to reach me Jus10Lopez@yahoo.com
+📫 How to reach me Justinsubocz@gmail.com
 
 Check out the live site: 
 
